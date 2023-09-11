@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💬 Ask me about Technical Documentation, Front-End Development and Music
 - ⚡ Fun fact: Always open for collaboration!
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shalini-chahar-a93a0b185/)https://www.linkedin.com/in/shalini-chahar-a93a0b185/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shalini-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shalini-chahar-a93a0b185/)https://www.linkedin.com/in/shalini-chahar-a93a0b185/)
    
