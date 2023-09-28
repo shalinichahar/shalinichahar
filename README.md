@@ -2,7 +2,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I’m a JavaScript Developer. I love developing new skills. I want to make things that make a difference !!
+I’m a JavaScript Developer. I love developing new skills. I aim to use my coding skills to contribute to real world projects !!
 - 🔭 I work with - React, NodeJs, JavaScript
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💬 Ask me about Technical Documentation, Front-End Development and Music
